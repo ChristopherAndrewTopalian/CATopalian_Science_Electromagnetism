@@ -2,6 +2,8 @@
 
 [VIDEO: Magnets Swinging Back and Forth](https://www.youtube.com/watch?v=F926N382x94)  
 
+![Magnets Swinging Back and Forth](textures/magnets_swinging_back_and_forth.png)
+
 ## 📽️ Observation: Magnetic Dip Oscillation
 
 > In this video, we observe the continuous left-right oscillation of a suspended magnetic apparatus in the Northeast region of the flat Earth plane.  
