@@ -131,7 +131,7 @@ By comprehending this inclination pattern, we gain new insight into both natural
 
 ---
 
-*Tutorial: Positional Inclination on the Flat Earth Plane*
+*Positional Inclination on the Flat Earth Plane*
 
 ---
 
