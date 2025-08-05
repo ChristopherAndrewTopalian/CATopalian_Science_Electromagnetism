@@ -82,7 +82,7 @@ Further experiments should be conducted at different latitudes to map the dip va
 
 ---
 
-*End of Tutorial #2: Magnetic Inclination & the Central Attractor*
+*Magnetic Inclination & the Central Attractor*
 
 ---
 
