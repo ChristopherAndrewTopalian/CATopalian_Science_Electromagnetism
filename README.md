@@ -13,6 +13,8 @@ We all live inside of a giagantic Electromagntic field.
 
 ### [Magnets Swinging Back and Forth](src/magnets_swinging_back_and_forth/magnets_swinging_back_and_forth.md)  
 
+### [Toroidal Field Instability](src/toroidal_field_instability/toroidal_field_instability.md)  
+
 ---
 
 # EXTRA:
