@@ -11,6 +11,14 @@ We all live inside of a giagantic Electromagntic field.
 
 ### [Magnetic Monolith Mountain](src/magnetic_monolith_mountain/magnetic_monolith_mountain.md)  
 
+### [Magnets Swinging Back and Forth](src/magnets_swinging_back_and_forth/magnets_swinging_back_and_forth.md)  
+
+---
+
+# EXTRA:
+
+### [Ancient Texts Description](src/ancient_texts_description/ancient_texts_description_a.md)  
+
 ---
 
 //----//
