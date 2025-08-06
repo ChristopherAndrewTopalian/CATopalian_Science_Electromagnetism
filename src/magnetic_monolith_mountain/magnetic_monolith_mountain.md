@@ -64,5 +64,3 @@ It’s like a compass in a bathtub — it floats level, but spins in place. This
 // https://github.com/ChristopherAndrewTopalian  
 // https://sites.google.com/view/CollegeOfScripting  
 
-
-
