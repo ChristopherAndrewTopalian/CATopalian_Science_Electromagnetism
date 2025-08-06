@@ -5,6 +5,8 @@ We all live inside of a giagantic Electromagntic field.
  
  ### [Determine the Poles of a Magnet](src/determine_poles_of_magnet/determine_poles_of_magnet.md)  
 
+  ### [Electromagnetism](src/electromagnetism/electromagnetism.md)  
+
 ### [Magnetic South Pole is Inside of Earth - A](src/magnetic_south_pole_is_inside_earth/magnetic_south_pole_is_inside_earth_a.md)  
 
 ### [Magnetic South Pole is Inside of Earth - B](src/magnetic_south_pole_is_inside_earth/magnetic_south_pole_is_inside_earth_b.md)  
