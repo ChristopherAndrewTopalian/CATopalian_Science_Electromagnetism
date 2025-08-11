@@ -91,7 +91,7 @@ If they wanted to activate the toroid only during a critical moment:
 ---
 
 # IMAGINE:  
-Visualize the Pyramid’s as a **"“"toroid weapon/field tuner system** — with water chamber, copper coil, and underground cylinder  
+Visualize the Pyramid’s as a **toroid weapon/field tuner system** — with water chamber, copper coil, and underground cylinder  
 
 ---
 
