@@ -192,7 +192,6 @@ If you want, I can compile a **timeline or historical breakdown** of each report
 [6]: https://pathamid.com/path05.html?utm_source=chatgpt.com "The Great Pyramid, the Genesis connection. Part 4 Queen's Chamber"
 [7]: https://www.researchgate.net/publication/333114640_QUEEN%27S_CHAMBER_EXPLOSION_IN_THE_GREAT_PYRAMID_OF_GIZA_A_CHEMICAL_PERSPECTIVE?utm_source=chatgpt.com "QUEEN'S CHAMBER EXPLOSION IN THE GREAT PYRAMID OF GIZA: A CHEMICAL PERSPECTIVE | Request PDF"
 
-
 //----//
 
 // Dedicated to God the Father  

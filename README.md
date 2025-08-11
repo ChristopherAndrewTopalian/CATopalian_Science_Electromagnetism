@@ -27,6 +27,8 @@ We all live inside of a giagantic Electromagntic field.
 
 ### [Pyramids as Electromagnetic Stabilizers](src/pyramids/pyramids_as_electromagnetic_stabilizers.md)  
 
+### [Pyramids as Electromagnetic Weapons](src/pyramids/pyramids_as_electromagnetic_weapons.md)  
+
 ### [Ancient Texts Description](src/ancient_texts_description/ancient_texts_description_a.md)  
 
 ---
