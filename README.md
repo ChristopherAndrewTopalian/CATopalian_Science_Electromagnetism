@@ -23,6 +23,8 @@ We all live inside of a giagantic Electromagntic field.
 
 # EXTRA:
 
+### [Pyramids are Electromagnetic Manipulation Devices](src/pyramids/pyramids_are_electromagnetic_manipulation_devices.md)  
+
 ### [Ancient Texts Description](src/ancient_texts_description/ancient_texts_description_a.md)  
 
 ---
