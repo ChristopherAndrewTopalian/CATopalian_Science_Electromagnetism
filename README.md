@@ -15,6 +15,8 @@ We all live inside of a giagantic Electromagntic field.
 
 ### [Magnets Swinging Back and Forth](src/magnets_swinging_back_and_forth/magnets_swinging_back_and_forth.md)  
 
+### [Electromagnetism Inside Vs Outside of the Wire Loop](src/electromagnetism_inside_vs_outside_of_the_wire_loop/electromagnetism_inside_vs_outside_of_the_wire_loop.md)  
+
 ### [Toroidal Field Instability - a](src/toroidal_field_instability/toroidal_field_instability_a.md)  
 
 ### [Toroidal Field Instability - b](src/toroidal_field_instability/toroidal_field_instability_b.md)  
