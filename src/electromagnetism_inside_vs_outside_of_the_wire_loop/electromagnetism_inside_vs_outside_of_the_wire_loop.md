@@ -48,7 +48,6 @@ This experiment demonstrates the spatial polarity of a simple current loop using
 - 1 × insulated copper wire formed into a loop
 - 22 × cylindrical neodymium magnets suspended from a string, free to rotate
 - Supporting frame to hold the suspended magnets
-- Insulated holders/clips for battery connection (for safety)
 
 ---
 
