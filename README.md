@@ -1,5 +1,5 @@
 # CATopalian Science Electromagnetism
-We all live inside of a giagantic Electromagntic field.  
+We all live inside of a gigantic Electromagnetic field.  
 
 ---
  
