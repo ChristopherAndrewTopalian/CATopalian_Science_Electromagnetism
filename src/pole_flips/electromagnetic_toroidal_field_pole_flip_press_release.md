@@ -4,7 +4,7 @@
 
 **⚡ Something BIG is hidden right beneath our feet…**
 
-Right now, the **magnetic South Pole is actually located at the geographic North Pole**. That’s why, even here in New York State, if you hold a compass or look at magnetic inclination, the needle isn’t flat — it’s tilting *down into the Earth*. If we follow that line, it points to a deep magnetic center beneath the ground, the heart of the toroidal field that drives our entire world.
+Right now, the **magnetic South Pole is actually located at the geographic North Pole**. If you hold a compass or look at magnetic inclination, the needle isn’t flat — it’s tilting *down into the Earth*. If we follow that line, it points to a deep magnetic center beneath the ground, the heart of the toroidal field that drives our entire world.
 
 This field pulls *everything downward* into that center. That’s why we feel weight, why life seems heavy, why building massive structures today is so difficult.
 
