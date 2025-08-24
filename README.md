@@ -23,6 +23,12 @@ We all live inside of a giagantic Electromagntic field.
 
 ---
 
+### [Electromagnetic Toroidal Field Pole Flip - a](src/pole_flips/electromagnetic_toroidal_field_pole_flip_a.md)  
+
+### [Electromagnetic Toroidal Field Pole Flip - Summary](src/pole_flips/electromagnetic_toroidal_field_pole_flip_summary.md)  
+
+---
+
 # EXTRA:
 
 ### [Pyramids are Electromagnetic Manipulation Devices](src/pyramids/pyramids_are_electromagnetic_manipulation_devices.md)  
