@@ -25,7 +25,9 @@ We all live inside of a giagantic Electromagntic field.
 
 ### [Electromagnetic Toroidal Field Pole Flip - a](src/pole_flips/electromagnetic_toroidal_field_pole_flip_a.md)  
 
-### [Electromagnetic Toroidal Field Pole Flip - a](src/pole_flips/electromagnetic_toroidal_field_pole_flip_b.md)  
+### [Electromagnetic Toroidal Field Pole Flip - b](src/pole_flips/electromagnetic_toroidal_field_pole_flip_b.md)  
+
+### [Electromagnetic Toroidal Field Pole Flip - c](src/pole_flips/electromagnetic_toroidal_field_pole_flip_c.md)  
 
 ### [Electromagnetic Toroidal Field Pole Flip - Summary](src/pole_flips/electromagnetic_toroidal_field_pole_flip_summary.md)  
 
