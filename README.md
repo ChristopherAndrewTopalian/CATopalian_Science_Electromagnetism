@@ -37,6 +37,10 @@ We all live inside of a gigantic Electromagnetic field.
 
 ### [Electromagnetic Toroidal Field Pole Flip - g](src/pole_flips/electromagnetic_toroidal_field_pole_flip_g.md)  
 
+### [Electromagnetic Toroidal Field Pole Flip - h](src/pole_flips/electromagnetic_toroidal_field_pole_flip_h.md)  
+
+### [Electromagnetic Toroidal Field Pole Flip - i](src/pole_flips/electromagnetic_toroidal_field_pole_flip_i.md)  
+
 ### [Electromagnetic Toroidal Field Pole Flip - Summary](src/pole_flips/electromagnetic_toroidal_field_pole_flip_summary.md)  
 
 ### [Electromagnetic Toroidal Field Pole Flip Press Release](src/pole_flips/electromagnetic_toroidal_field_pole_flip_press_release.md)  
